@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/rishab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cc260dc31801b45a49ae996db2481c91/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/rishab/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3229237d85aa01e29905f71063c2cbba/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/rishab/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/18952891905359cac8e1550dfcedafca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/rishab/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/1cb33f98b9cc999a9a6801abf6e394d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/rishab/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/093f232adfd471191471a047e646825b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/rishab/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/67199a911d9da4df78b45bb4603eff8e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/rishab/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/970185817f0ba081ce7df6210ea4eec4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/rishab/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5b6500337880b42f330b34bed4d1fde7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/rishab/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/8fbb6c188d9e1ae0d1d4b4238ef91d43/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/rishab/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/49542fc3144fa3bc7c9b13e0179a31a1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/rishab/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fe2577b2a695e9d62afa0cbc9318a1d0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/rishab/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/13f349c05a6d18229f31b3fe21b901bb/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml
+		ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml
+		ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.INTERNET
+ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:9:22-76
+application
+ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:11:5-31:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/rishab/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3229237d85aa01e29905f71063c2cbba/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/rishab/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3229237d85aa01e29905f71063c2cbba/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:13:9-52
+	android:allowBackup
+		ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.example.root.word_timer.user_select
+ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:17:9-25:20
+	android:screenOrientation
+		ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:19:13-49
+	android:name
+		ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:18:13-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.example.root.word_timer.MainActivity
+ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:26:9-28:52
+	android:screenOrientation
+		ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:28:13-49
+	android:name
+		ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:27:13-41
+activity#com.example.root.word_timer.UserDetails
+ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:29:9-30:61
+	android:screenOrientation
+		ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml:29:19-46
+uses-sdk
+INJECTED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml
+INJECTED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/rishab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cc260dc31801b45a49ae996db2481c91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/rishab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cc260dc31801b45a49ae996db2481c91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/rishab/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3229237d85aa01e29905f71063c2cbba/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/rishab/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3229237d85aa01e29905f71063c2cbba/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/rishab/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/18952891905359cac8e1550dfcedafca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/rishab/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/18952891905359cac8e1550dfcedafca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/rishab/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/1cb33f98b9cc999a9a6801abf6e394d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/rishab/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/1cb33f98b9cc999a9a6801abf6e394d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/rishab/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/093f232adfd471191471a047e646825b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/rishab/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/093f232adfd471191471a047e646825b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/rishab/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/67199a911d9da4df78b45bb4603eff8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/rishab/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/67199a911d9da4df78b45bb4603eff8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/rishab/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/970185817f0ba081ce7df6210ea4eec4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/rishab/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/970185817f0ba081ce7df6210ea4eec4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/rishab/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5b6500337880b42f330b34bed4d1fde7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/rishab/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5b6500337880b42f330b34bed4d1fde7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/rishab/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/8fbb6c188d9e1ae0d1d4b4238ef91d43/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/rishab/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/8fbb6c188d9e1ae0d1d4b4238ef91d43/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/rishab/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/49542fc3144fa3bc7c9b13e0179a31a1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/rishab/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/49542fc3144fa3bc7c9b13e0179a31a1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/rishab/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fe2577b2a695e9d62afa0cbc9318a1d0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/rishab/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fe2577b2a695e9d62afa0cbc9318a1d0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/rishab/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/13f349c05a6d18229f31b3fe21b901bb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/rishab/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/13f349c05a6d18229f31b3fe21b901bb/AndroidManifest.xml:20:5-44
+INJECTED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml
+INJECTED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml
+		ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml
+		ADDED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rishab/Android Apps/word_timer/app/src/main/AndroidManifest.xml
